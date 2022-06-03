@@ -1,2 +1,7 @@
-# cit281-p2
-The purpose of this project is to practice writing non-webserver javascript
+## Learning Objectives
+
+### After completing this project, you will:
+
+- Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+- Gain experience writing and executing non-web server Node.js JavaScript code
+- Practice refactoring JavaScript code
